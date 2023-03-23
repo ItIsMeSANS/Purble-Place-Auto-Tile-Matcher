@@ -8,6 +8,6 @@ __**To get started you will need to do:**__
 2/ Put the PurblePlace.exe.mui into C:\Program Files\Microsoft Games\Purble Place\en-US\
 (I recommend you to create a backup) and replace it
 
-3/ Run the script and follow it`s instructions and enjoy.
+3/ Run the script follow it`s instructions and enjoy.
 
 **Note: I may update this**
